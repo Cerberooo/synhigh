@@ -17,7 +17,7 @@ Easy to use php syntax highlight module.
 
 ## Using
 
-Download the `dist/synhigh.zip`, unzip and put it into to your project directory. Then load the module in your `.php` file with:  
+Download the latest release, unzip and put it into to your project directory. Then load the module in your `.php` file with:  
 
 ```php
 require_once('synParser.php')
